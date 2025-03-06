@@ -1,0 +1,3 @@
+/home/ray/work/cpp_knowledge/build/CMakeFiles/helloword.dir
+/home/ray/work/cpp_knowledge/build/CMakeFiles/edit_cache.dir
+/home/ray/work/cpp_knowledge/build/CMakeFiles/rebuild_cache.dir

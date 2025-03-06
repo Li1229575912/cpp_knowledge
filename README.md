@@ -6,6 +6,7 @@ VS Code
 ### Linux环境：
 // 安装并检查gcc g++ gdb 版本
 sudo apt install git g++ 
+sudo apt install cmake
 
 ### Windows环境
 ### MacOS和环境
